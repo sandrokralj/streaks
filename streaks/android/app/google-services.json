@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919125467311",
+    "project_id": "streaksapp-3e520",
+    "storage_bucket": "streaksapp-3e520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919125467311:android:a3d500608a88b5b351745a",
+        "android_client_info": {
+          "package_name": "com.flutterflow.streaks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919125467311-eg6aadcku8gutd2hedhamhc2q6g0oce1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Sv2KvfPSpEfmiWrHjptB3ygaUZupa3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919125467311-eg6aadcku8gutd2hedhamhc2q6g0oce1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
